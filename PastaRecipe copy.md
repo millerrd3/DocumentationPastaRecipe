@@ -87,4 +87,4 @@ _The following measurements will make 2 8-ounce servings:_
 
 ---
 
-URL: Cannot figure out how to turn this into a internet-accessible file from the student2 machine.
+URL: [URL TO THIS PAGE](https://github.com/millerrd3/DocumentationPastaRecipe/blob/main/PastaRecipe%20copy.md)
